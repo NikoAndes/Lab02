@@ -1,6 +1,6 @@
-# SistemaOrdenamiento
+# Sistema Ordenamiento LAB2
 
-SistemaOrdenamiento es una aplicación completa de gestión y análisis de algoritmos de ordenamiento desarrollada en Java que combina una interfaz gráfica moderna (Swing) con módulos de consola interactiva. Este proyecto fue creado como parte del **Laboratorio 2** de Programación 3 en la Universidad Militar Nueva Granada, con el objetivo de aplicar conceptos de arreglos, algoritmos de ordenamiento, programación orientada a objetos y diseño de interfaces gráficas.
+Sistema Ordenamiento LAB 2 es una aplicación completa de gestión y análisis de algoritmos de ordenamiento desarrollada en Java que combina una interfaz gráfica moderna (Swing) con módulos de consola interactiva. Este proyecto fue creado como parte del **Laboratorio 2** de Programación 3 en la Universidad Militar Nueva Granada, con el objetivo de aplicar conceptos de arreglos, algoritmos de ordenamiento, programación orientada a objetos y diseño de interfaces gráficas.
 
 ## 🧠 Descripción del Proyecto
 
@@ -104,20 +104,21 @@ laboratorioordenamiento/
 ## 🖼️ Capturas de Pantalla
 
 ### Figura Empaquetado GUI
-![Empaquetado GUI](Figura-Empaquetado-GUI-1.jpg)
+<img width="1365" height="728" alt="Figura Empaquetado GUI 1" src="https://github.com/user-attachments/assets/40490b12-6e52-4571-bd1e-5c9d89b24d88" />
+<img width="1366" height="727" alt="Figura Empaquetado GUI 2" src="https://github.com/user-attachments/assets/9e59327c-9366-4499-992a-a80435452e93" />
+<img width="1365" height="723" alt="Figura Empaquetado GUI 3" src="https://github.com/user-attachments/assets/09402065-97ec-474d-a019-d64c8a3f2eed" />
 *Interfaz gráfica moderna con tema claro, cards redondeados y diseño tipo dashboard*
 
 ### Figura Empaquetado Consola  
-![Empaquetado Consola](Figura-Empaquetado-Consola.jpg)
+<img width="539" height="379" alt="Figura Empaquetado Consola" src="https://github.com/user-attachments/assets/1317a335-658e-49f6-a4e8-0dbf809027e7" />
 *Menú principal de consola con navegación intuitiva y banner universitario*
 
 ### Figura Tests
-![Tests](Figura-Test.jpg)
+<img width="1236" height="435" alt="Figura Test" src="https://github.com/user-attachments/assets/0263aaf3-415b-4a9d-a9e5-dc31cbc90007" />
 *Suite completa de pruebas unitarias - 11 tests pasados exitosamente*
 
 ## 📄 Diagrama UML
-
-![Diagrama UML](Diagrama.jpg)
+<img width="1260" height="1321" alt="Diagrama" src="https://github.com/user-attachments/assets/481a22c4-d3ab-4b1b-98f9-3ddc30355e67" />
 *Arquitectura completa del sistema mostrando todas las relaciones entre clases*
 
 ## 🚀 Instalación y Ejecución
@@ -194,7 +195,11 @@ El sistema incluye una **suite completa de 11 pruebas unitarias** que validan:
 
 ## 👥 Equipo de Desarrollo
 
-**Desarrollado por:** [Tu Nombre]  
+**Desarrollado por:**
+Nicolas Isaza Sierra (7004625)");
+Julián David Galindo Hernández (7004600)");
+Saúl Alejandro Pérez Estupiñán (7004631)");
+
 **Universidad:** Militar Nueva Granada  
 **Programa:** Ingeniería Mecatrónica  
 **Asignatura:** Programación 3 - Semestre III  
