@@ -1,4 +1,4 @@
-# Sistema Ordenamiento LAB2
+# Sistema Ordenamiento LAB02
 
 Sistema Ordenamiento LAB 2 es una aplicación completa de gestión y análisis de algoritmos de ordenamiento desarrollada en Java que combina una interfaz gráfica moderna (Swing) con módulos de consola interactiva. Este proyecto fue creado como parte del **Laboratorio 2** de Programación 3 en la Universidad Militar Nueva Granada, con el objetivo de aplicar conceptos de arreglos, algoritmos de ordenamiento, programación orientada a objetos y diseño de interfaces gráficas.
 
@@ -111,6 +111,7 @@ laboratorioordenamiento/
 
 ### Figura Empaquetado Consola  
 <img width="539" height="379" alt="Figura Empaquetado Consola" src="https://github.com/user-attachments/assets/1317a335-658e-49f6-a4e8-0dbf809027e7" />
+
 *Menú principal de consola con navegación intuitiva y banner universitario*
 
 ### Figura Tests
